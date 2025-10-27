@@ -1,0 +1,4 @@
+*
+!.gitignore
+!commands/*.md
+!settings.json
